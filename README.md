@@ -4,8 +4,8 @@
 ## Project branches
 To execute all required tasks were created two main branches.
 
-1. [Java branch](https://gitlab.com/ViktorBibik/Viktor_Bibik_Final_Automation_Task_Kyiv/-/tree/Java) - is related to task 1 - 3.
-2. [Cucumber branch](https://gitlab.com/ViktorBibik/Viktor_Bibik_Final_Automation_Task_Kyiv/-/tree/Cucumber) - is related to task 4 - 5.
+1. [Java branch](https://github.com/ViktorBibikB/JavaSelenium/tree/Java) - is related to task 1 - 3.
+2. [Cucumber branch](https://github.com/ViktorBibikB/JavaSelenium/tree/Cucumber) - is related to task 4 - 5.
 
 All functionality divided on two main blocks BBC1 and BBC2, which, in turn, are divided into two parts:
 - [BBC 1. Part 1](https://gitlab.com/mardona/taforui/-/blob/main/Tasks/Variants/BBC1/Part1.md)
