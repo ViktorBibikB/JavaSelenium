@@ -1,4 +1,4 @@
 .idea
-.gitlab-ci.yml
-src
 target
+.gitlab-ci.yml
+README.md
