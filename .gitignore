@@ -1,4 +1,5 @@
 .idea
-.gitlab-ci.yml
-src
 target
+.gitlab-ci.yml
+README.md
+Viktor_Bibik_Final_Automation_Task_Kyiv.iml

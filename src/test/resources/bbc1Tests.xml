@@ -1,0 +1,22 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="SmokeSuite">
+    <test name="tests.SmokeTestsChrome">
+        <classes>
+            <class name="tests.bbc1.BBC1Part1Tests">
+                <methods>
+                    <include name="checkFirstAbstractTitle"/>
+                    <include name="checkTitlesListPresence"/>
+                    <include name="getCategoryText"/>
+                </methods>
+            </class>
+            <class name="tests.bbc1.BBC1Part2Tests">
+                <methods>
+                    <include name="sendQuestionToBBCWithoutTitle"/>
+                    <include name="sendQuestionToBBCWithoutTextBox"/>
+                    <include name="sendQuestionToBBCWithoutTextAnyText"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
